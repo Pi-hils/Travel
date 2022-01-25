@@ -6,6 +6,10 @@ This is a project that uses google map API to find all you need when you travel 
 - Weather
 - Tourist places
 
+#### API Accessed from
+https://rapidapi.com/community/api/open-weather-map/
+<br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
